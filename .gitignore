@@ -11,6 +11,6 @@ bin/
 *.zip
 
 # Logs
-*.logBook/
+*.log
 
 Book/
