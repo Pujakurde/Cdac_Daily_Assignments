@@ -1,20 +1,24 @@
 package practice;
 public class SecondLargest {
 	public static void main(String[] args) {
-		int n= 3542;
-		int digit ;
+		int arr []= {10,10,10};
+		
 		int secondLargest=0;
 		int firstLargest=0;
-		while(n!=0) {
-			digit=n%10;
-			if(digit>firstLargest) {
+		for(int i=0;i<arr.length;i++) {
+			
+			if(arr[i]>firstLargest) {
 				secondLargest=firstLargest;   
-				firstLargest=digit;
+				firstLargest=arr[i];
 			}
-			else if(digit> secondLargest) {
-				secondLargest= digit;
+			else if(arr[i]> secondLargest) {
+				secondLargest= arr[i];
 			}
-			n=n/10;
+			else {
+				secondLargest= -1;
+				
+			}
+			
 		}
 		System.out.println(secondLargest);
 		
