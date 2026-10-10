@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="calSalary/calSalary.vcxproj" Id="cfd2f3fb-e0ec-46a2-a170-cadaafa9bc48" />
+</Solution>

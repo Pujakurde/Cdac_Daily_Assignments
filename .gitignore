@@ -1,17 +1,36 @@
-# Eclipse
+
+# Eclipse / Java IDE metadata
 .project
 .classpath
 .settings/
+.metadata/
+.git/
 
-# Build output
+# Java build output
 bin/
 *.class
 
-# Archives
-*.zip
+# Visual Studio generated files
+.vs/
+**/x64/
+**/Debug/
+**/Release/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.ipch
+*.tlog/
+*.suo
+*.user
+*.VC.db
+*.VC.VC.opendb
 
-# Logs
+# Archives and logs
+*.zip
 *.log
 
-Book/
-.metadata/
+# Local duplicate workspaces
+/JavaWorkspace/
+/JavaDSA/
+Java/Book/javabook.pdf

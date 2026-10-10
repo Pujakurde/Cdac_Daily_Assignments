@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="StudentRoll.vcxproj" Id="0fa71fcc-4fa2-4536-8407-2690b2a44d47" />
+</Solution>

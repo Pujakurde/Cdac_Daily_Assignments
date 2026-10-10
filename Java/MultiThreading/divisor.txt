@@ -1,0 +1,9 @@
+Diviosr of: 32 are: 1 2 4 8 16 32 
+Diviosr of: 30 are: 1 2 3 5 6 10 15 30 
+Diviosr of: 50 are: 1 2 5 10 25 50 
+Diviosr of: 50 are: 1 2 5 10 25 50 
+Diviosr of: 32 are: 1 2 4 8 16 32 
+Diviosr of: 30 are: 1 2 3 5 6 10 15 30 
+Diviosr of: 50 are: 1 2 5 10 25 50 
+Diviosr of: 30 are: 1 2 3 5 6 10 15 30 
+Diviosr of: 32 are: 1 2 4 8 16 32 

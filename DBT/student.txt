@@ -1,0 +1,18 @@
+CREATE DATABASE DAY1;
+
+USE DAY1;
+
+mysql> CREATE TABLE student(
+    ->     studentID INT,
+    ->     studentName VARCHAR(15),
+    ->     phoneNo VARCHAR(15),
+    ->     percentage FLOAT(5,2),
+    ->     DOB DATE
+    -> );
+	
+mysql> INSERT INTO student
+    -> VALUES(1,'Puja','8888889968',88.9, '2004-10-12'),
+    -> (2,'Dynaa','8888899999',88.3,'2004-01-11');
+	
+	
+	

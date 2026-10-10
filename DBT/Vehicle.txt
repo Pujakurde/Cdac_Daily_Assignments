@@ -1,0 +1,21 @@
+CREATE TABLE Vehicle(
+    vid INT,
+    vname VARCHAR(15),
+    price INT,
+    discount FLOAT(5,2),
+    milage INT,
+    category VARCHAR(10),
+    details VARCHAR(100)
+);
+
+CREATE TABLE customer(
+    custid INT,
+    cname VARCHAR(15),
+    location VARCHAR(100)
+);
+
+CREATE TABLE Salesman(
+    sid INT,
+    sname VARCHAR(15),
+    experience float(2,1)
+);
