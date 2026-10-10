@@ -1,0 +1,1197 @@
+CPP/CPP_1/prime_no.cpp:6: trailing whitespace.
+[32m+[m[32m{[m[41m  [m
+CPP/CPP_1/prime_no.cpp:7: trailing whitespace.
+[32m+[m[41m   [m
+CPP/CPP_1/prime_no.cpp:29: trailing whitespace.
+[32m+[m[41m            [m
+CPP/CPP_2/Cal_interestPRT.cpp:51: new blank line at EOF.
+CPP/CPP_2/function_overloading_calculate.cpp:18: trailing whitespace.
+[32m+[m[32m{[m[41m  [m
+CPP/Day4_1/student.cpp:4: trailing whitespace.
+[32m+[m[32m{[m[41m   [m
+CPP/Exception/Employee_Exception/Employee_Exception/Employee_Exception.cpp:88: trailing whitespace.
+[32m+[m[41m	[m
+CPP/Exception/Employee_Exception/Employee_Exception/Employee_Exception.cpp:88: new blank line at EOF.
+CPP/Exception/Employee_Exception/Employee_Exception/Employee_Exception.h:17: trailing whitespace.
+[32m+[m[41m	[m
+CPP/Exception/Employee_Exception/Employee_Exception/Employee_Exception.h:19: new blank line at EOF.
+CPP/FileHandling/Demo1/demo2.cpp:11: trailing whitespace.
+[32m+[m	[32m{[m[41m [m
+CPP/FileHandling/Demo1/demo2.cpp:27: trailing whitespace.
+[32m+[m[41m	[m
+CPP/FileHandling/Demo1/demo2.cpp:35: trailing whitespace.
+[32m+[m			[32mbreak;[m[41m	[m
+CPP/FileHandling/Demo1/demo2.cpp:37: trailing whitespace.
+[32m+[m[41m		[m
+CPP/Inheritance/Employee/Employee.cpp:29: new blank line at EOF.
+CPP/Inheritance/Employee/Employee.h:9: trailing whitespace.
+[32m+[m[41m	[m
+CPP/Operator_overloading/Complex/Client.cpp:21: trailing whitespace.
+[32m+[m[41m	[m
+CPP/Operator_overloading/Complex/Complex/Client.cpp:21: trailing whitespace.
+[32m+[m[41m	[m
+CPP/Operator_overloading/ComplexOO/Client.cpp:23: trailing whitespace.
+[32m+[m[41m	[m
+CPP/Operator_overloading/ComplexOO/Client.cpp:31: trailing whitespace.
+[32m+[m[41m	[m
+CPP/Pointer/Array/Array.cpp:28: trailing whitespace.
+[32m+[m[41m        [m
+CPP/Pointer/Array/Array.cpp:31: trailing whitespace.
+[32m+[m[41m    [m
+CPP/Pointer/Array/Array.cpp:33: trailing whitespace.
+[32m+[m[41m                    [m
+CPP/Pointer/Array/Client.cpp:12: trailing whitespace.
+[32m+[m[41m  [m
+CPP/Pointer/Stringp/Client.cpp:30: new blank line at EOF.
+CPP/PolymorphismI/Polymorphism/WageEmployee.cpp:3: trailing whitespace.
+[32m+[m[32mvoid WageEmployee::accept()[m[41m [m
+CPP/PolymorphismI/Polymorphism/WageEmployee.cpp:12: trailing whitespace.
+[32m+[m[32mvoid WageEmployee::display()[m[41m [m
+CPP/PolymorphismI/Polymorphism/WageEmployee.cpp:17: trailing whitespace.
+[32m+[m[41m    [m
+CPP/PolymorphismI/Polymorphism/WageEmployee.h:11: trailing whitespace.
+[32m+[m[32m    float rate;[m[41m [m
+CPP/PolymorphismI/calSalary/calSalary/Client.cpp:12: trailing whitespace.
+[32m+[m[32m    ptr = &d;[m[41m   [m
+CPP/PolymorphismI/calSalary/calSalary/Employee.h:24: new blank line at EOF.
+CPP/Reusing_classes/Person/Person.cpp:31: new blank line at EOF.
+CPP/Reusing_classes/Student/Student.cpp:35: new blank line at EOF.
+CPP/Reusing_classes/StudentRoll/StudentRoll/Student.cpp:36: trailing whitespace.
+[32m+[m[41m	[m
+CPP/Reusing_classes/StudentRoll/StudentRoll/Student.cpp:35: new blank line at EOF.
+CPP/namespace/namespaces/main.cpp:132: trailing whitespace.
+[32m+[m[41m	[m
+CPP/this_static/Book/Book/Book.cpp:47: new blank line at EOF.
+CPP/this_static/date_static/Date.cpp:31: new blank line at EOF.
+CPP/this_static/date_static/Date.h:23: trailing whitespace.
+[32m+[m		[32mreturn count; //as it is static function[m[41m [m
+CPP/this_static/date_static/Date.h:31: new blank line at EOF.
+CPP/this_static/date_static/client.cpp:16: trailing whitespace.
+[32m+[m[41m	[m
+DBT/Day1.sql:89: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day1.sql:101: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day1.sql:135: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day1.sql:146: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day1.sql:208: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day1.sql:221: trailing whitespace.
+[32m+[m[32mvname 'Vehicle name',[m[41m [m
+DBT/Day1.sql:242: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day1.sql:288: new blank line at EOF.
+DBT/Day2.sql:57: trailing whitespace.
+[32m+[m[32m       (DEPTNO INT,[m[41m [m
+DBT/Day2.sql:140: trailing whitespace.
+[32m+[m[32mas[m[41m [m
+DBT/Day2.sql:141: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day2.sql:174: trailing whitespace.
+[32m+[m[32mas[m[41m [m
+DBT/Day2.sql:175: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day2.sql:202: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day2.sql:203: trailing whitespace.
+[32m+[m[32mFROM EMP[m[41m [m
+DBT/Day2.sql:223: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day2.sql:224: trailing whitespace.
+[32m+[m[32mFROM EMP[m[41m [m
+DBT/Day2.sql:246: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day2.sql:247: trailing whitespace.
+[32m+[m[32mFROM EMP[m[41m [m
+DBT/Day2.sql:261: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day2.sql:262: trailing whitespace.
+[32m+[m[32mFROM EMP[m[41m [m
+DBT/Day2.sql:279: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day2.sql:280: trailing whitespace.
+[32m+[m[32mFROM EMP[m[41m [m
+DBT/Day2.sql:298: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day2.sql:299: trailing whitespace.
+[32m+[m[32mFROM EMP[m[41m [m
+DBT/Day2.sql:395: trailing whitespace.
+[32m+[m[32mWHERE (DEPTNO=10 OR DEPTNO =30 )AND[m[41m [m
+DBT/Day2.sql:460: trailing whitespace.
+[32m+[m[32m        STR_TO_DATE('17-DEC-1980', '%d-%b-%Y'),[m[41m [m
+DBT/Day2.sql:471: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day2.sql:483: trailing whitespace.
+[32m+[m[32mSELECT EMPNO,ENAME,DEPTNO[m[41m [m
+DBT/Day2.sql:500: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day2.sql:511: trailing whitespace.
+[32m+[m[32mSELECT EMPNO,ENAME,DEPTNO[m[41m [m
+DBT/Day2.sql:568: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/Day2.sql:581: new blank line at EOF.
+DBT/UPDATE_2.sql:14: trailing whitespace.
+[32m+[m[32mSELECT *[m[41m [m
+DBT/UPDATE_2.sql:29: new blank line at EOF.
+DBT/student.txt:12: trailing whitespace.
+[32m+[m[41m	[m
+DBT/student.txt:16: trailing whitespace.
+[32m+[m[41m	[m
+DBT/student.txt:17: trailing whitespace.
+[32m+[m[41m	[m
+DBT/student.txt:18: trailing whitespace.
+[32m+[m[41m	[m
+DBT/student.txt:16: new blank line at EOF.
+DSA/Graph/src/graph/Graph.java:14: trailing whitespace.
+[32m+[m[41m		 [m
+DSA/Graph/src/graph/Graph.java:24: trailing whitespace.
+[32m+[m[41m		[m
+DSA/Graph/src/graph/Graph.java:49: trailing whitespace.
+[32m+[m[41m		[m
+DSA/Graph/src/graph/Graph.java:50: trailing whitespace.
+[32m+[m[41m		[m
+DSA/Graph/src/graph/Graph.java:71: trailing whitespace.
+[32m+[m[41m		[m
+DSA/Graph/src/graph/Graph.java:74: trailing whitespace.
+[32m+[m[41m	[m
+DSA/SearchSort/src/sorting/BubbleSort.java:6: trailing whitespace.
+[32m+[m[41m	[m
+DSA/SearchSort/src/sorting/BubbleSort.java:9: trailing whitespace.
+[32m+[m[41m		[m
+DSA/SearchSort/src/sorting/BubbleSort.java:10: trailing whitespace.
+[32m+[m		[32mboolean swapped =false;[m[41m [m
+DSA/SearchSort/src/sorting/BubbleSort.java:13: trailing whitespace.
+[32m+[m[41m			[m
+DSA/SearchSort/src/sorting/BubbleSort.java:17: trailing whitespace.
+[32m+[m[41m				[m
+DSA/SearchSort/src/sorting/BubbleSort.java:19: trailing whitespace.
+[32m+[m[41m					[m
+DSA/SearchSort/src/sorting/BubbleSort.java:23: trailing whitespace.
+[32m+[m[41m					[m
+DSA/SearchSort/src/sorting/BubbleSort.java:25: trailing whitespace.
+[32m+[m[41m					[m
+DSA/SearchSort/src/sorting/BubbleSort.java:32: trailing whitespace.
+[32m+[m[41m					[m
+DSA/SearchSort/src/sorting/BubbleSort.java:33: trailing whitespace.
+[32m+[m		[32m}[m[41m   [m
+DSA/SearchSort/src/sorting/BubbleSort.java:34: trailing whitespace.
+[32m+[m		[32mSystem.out.println("\nFull Sorted by Bubble Sort: "+Arrays.toString(arr));[m[41m	[m
+DSA/SearchSort/src/sorting/BubbleSort.java:37: trailing whitespace.
+[32m+[m[41m	[m
+DSA/SearchSort/src/sorting/BubbleSort.java:41: trailing whitespace.
+[32m+[m[41m		[m
+DSA/SearchSort/src/sorting/BubbleSort.java:43: trailing whitespace.
+[32m+[m[41m	[m
+DSA/SearchSort/src/sorting/QuickSort.java:16: trailing whitespace.
+[32m+[m[41m		[m
+DSA/Tree/src/bst/BinarySearchTree.java:7: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/bst/BinarySearchTree.java:17: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/bst/BinarySearchTree.java:42: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/bst/BinarySearchTree.java:46: trailing whitespace.
+[32m+[m	[32m}[m[41m [m
+DSA/Tree/src/bst/BinarySearchTree.java:54: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/bst/BinarySearchTree.java:58: trailing whitespace.
+[32m+[m	[32m}[m[41m [m
+DSA/Tree/src/bst/BinarySearchTree.java:66: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/bst/BinarySearchTree.java:70: trailing whitespace.
+[32m+[m		[32m}[m[41m [m
+DSA/Tree/src/bst/BinarySearchTree.java:78: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/bst/BinarySearchTree.java:90: trailing whitespace.
+[32m+[m[41m		[m
+DSA/Tree/src/bst/BinarySearchTree.java:97: trailing whitespace.
+[32m+[m[41m		[m
+DSA/Tree/src/bst/BinarySearchTree.java:100: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/bst/BinarySearchTree.java:101: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/bst/BinarySearchTree.java:102: trailing whitespace.
+[32m+[m[41m		[m
+DSA/Tree/src/bst/KthSmallestElement.java:11: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/bst/KthSmallestElement.java:22: trailing whitespace.
+[32m+[m[41m	    [m
+DSA/Tree/src/bst/KthSmallestElement.java:24: space before tab in indent.
+[32m+[m	[41m    [m		[32mwhile(current!= null) {[m
+DSA/Tree/src/bst/KthSmallestElement.java:25: space before tab in indent.
+[32m+[m	[41m    [m			[32mstack.push(current);[m
+DSA/Tree/src/bst/KthSmallestElement.java:26: space before tab in indent.
+[32m+[m	[41m    [m			[32mcurrent=current.left	;[m
+DSA/Tree/src/bst/KthSmallestElement.java:27: space before tab in indent.
+[32m+[m	[41m    [m		[32m}[m
+DSA/Tree/src/bst/KthSmallestElement.java:28: trailing whitespace.
+[32m+[m[41m	    		[m
+DSA/Tree/src/bst/KthSmallestElement.java:29: trailing whitespace, space before tab in indent.
+[32m+[m	[41m    [m		[32m//current[m[41m [m
+DSA/Tree/src/bst/KthSmallestElement.java:30: space before tab in indent.
+[32m+[m	[41m    [m		[32mcurrent=stack.pop();[m
+DSA/Tree/src/bst/KthSmallestElement.java:31: space before tab in indent.
+[32m+[m	[41m    [m		[32mk--;[m
+DSA/Tree/src/bst/KthSmallestElement.java:32: trailing whitespace.
+[32m+[m[41m	    		[m
+DSA/Tree/src/bst/KthSmallestElement.java:33: space before tab in indent.
+[32m+[m	[41m    [m		[32mif (k == 0) {[m
+DSA/Tree/src/bst/KthSmallestElement.java:34: space before tab in indent.
+[32m+[m	[41m    [m			[32mreturn current.data;[m
+DSA/Tree/src/bst/KthSmallestElement.java:35: space before tab in indent.
+[32m+[m	[41m    [m		[32m}[m
+DSA/Tree/src/bst/KthSmallestElement.java:36: space before tab in indent.
+[32m+[m	[41m    [m		[32m// Move to right subtree[m
+DSA/Tree/src/bst/KthSmallestElement.java:37: space before tab in indent.
+[32m+[m	[41m    [m		[32mcurrent=current.right;[m
+DSA/Tree/src/bst/KthSmallestElement.java:43: trailing whitespace.
+[32m+[m[41m		[m
+DSA/Tree/src/bst/SearchInBST.java:18: trailing whitespace.
+[32m+[m[41m        [m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:11: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:21: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:46: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:53: space before tab in indent.
+[32m+[m	[41m    [m		[32mwhile(current!= null) {[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:54: space before tab in indent.
+[32m+[m	[41m    [m			[32mstack.push(current);[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:55: space before tab in indent.
+[32m+[m	[41m    [m			[32mcurrent=current.left	;[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:56: space before tab in indent.
+[32m+[m	[41m    [m		[32m}[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:57: space before tab in indent.
+[32m+[m	[41m    [m		[32mcurrent=stack.pop();[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:58: space before tab in indent.
+[32m+[m	[41m    [m		[32mSystem.out.print(current.data+" ");[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:59: space before tab in indent.
+[32m+[m	[41m    [m		[32mcurrent=current.right;[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:61: trailing whitespace.
+[32m+[m[41m	    [m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:66: space before tab in indent.
+[32m+[m	[41m    [m	[32mwhile(!stack.isEmpty()) {[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:67: space before tab in indent.
+[32m+[m	[41m    [m		[32mNode current=stack.pop();[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:68: space before tab in indent.
+[32m+[m	[41m    [m		[32mSystem.out.print(current.data+" ");[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:69: trailing whitespace.
+[32m+[m[41m	    		[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:70: space before tab in indent.
+[32m+[m	[41m    [m		[32mif(current.right!=null) {[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:71: space before tab in indent.
+[32m+[m	[41m    [m			[32mstack.push(current.right);[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:72: space before tab in indent.
+[32m+[m	[41m    [m		[32m}[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:73: space before tab in indent.
+[32m+[m	[41m    [m		[32mif(current.left!=null) {[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:74: space before tab in indent.
+[32m+[m	[41m    [m			[32mstack.push(current.left);[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:75: space before tab in indent.
+[32m+[m	[41m    [m		[32m}[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:77: trailing whitespace.
+[32m+[m[41m	    [m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:79: trailing whitespace.
+[32m+[m[41m	[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:100: trailing whitespace.
+[32m+[m[41m	        [m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:118: trailing whitespace.
+[32m+[m[41m		[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:125: trailing whitespace.
+[32m+[m[41m		[m
+DSA/Tree/src/interative/BinarySearchTreeIterative.java:128: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/arrayshelper/ArraysDemo.java:10: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/arrayshelper/ArraysDemo.java:14: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/arrayshelper/ArraysDemo.java:18: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/arrayshelper/ArraysDemo.java:22: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/arrayshelper/ArraysDemo.java:23: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/arrayshelper/ArraysDemo.java:27: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/calculator/Calculator.java:6: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/calculator/Calculator.java:12: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/calculator/CalculatorDemo.java:8: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/demo/Demo.java:12: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/demo/Demo.java:23: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/employee/Employee.java:8: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/employee/Employee.java:53: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/employee/EmployeeDemo.java:11: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/employee/EmployeeDemo.java:26: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkString.java:13: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkString.java:15: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkString.java:19: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkString.java:24: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkString.java:26: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkString.java:28: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkString.java:31: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkString.java:39: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkString.java:41: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:12: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:14: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:18: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:23: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:25: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:27: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:30: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:38: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:40: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:44: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:49: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:50: trailing whitespace.
+[32m+[m		[32m//sort[m[41m [m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:54: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:59: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:60: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/framework/CollectionFrameworkStringSize.java:74: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/genericClass/ArrayOperations.java:4: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/genericClass/ArrayOperations.java:9: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/genericClass/ArrayOperations.java:10: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/genericClass/ArrayOperationsDemo.java:11: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/genericClass/ArrayOperationsDemo.java:16: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/genericClass/MyClassDemo.java:9: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/genericClass/MyClassDemo.java:13: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/genericClass/MyClassDemo.java:14: trailing whitespace.
+[32m+[m[41m		 [m
+Java/CollectionFrameworkString/src/mapuser/DomainCount.java:25: trailing whitespace.
+[32m+[m					[32mif(domainMap.containsKey(domain))[m[41m [m
+Java/CollectionFrameworkString/src/mapuser/DomainCount.java:28: trailing whitespace.
+[32m+[m[41m								[m
+Java/CollectionFrameworkString/src/mapuser/DomainCount.java:30: trailing whitespace.
+[32m+[m[41m			[m
+Java/CollectionFrameworkString/src/mapuser/DomainCount.java:34: trailing whitespace.
+[32m+[m[41m					[m
+Java/CollectionFrameworkString/src/mapuser/DomainCount.java:36: trailing whitespace.
+[32m+[m[41m				[m
+Java/CollectionFrameworkString/src/mapuser/DomainCount.java:40: trailing whitespace.
+[32m+[m[41m			[m
+Java/CollectionFrameworkString/src/mapuser/DomainCount.java:44: trailing whitespace.
+[32m+[m[41m			[m
+Java/CollectionFrameworkString/src/mapuser/DomainCount.java:46: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/mapuser/MapDemo.java:6: trailing whitespace.
+[32m+[m[32mpublic class MapDemo {[m[41m [m
+Java/CollectionFrameworkString/src/mapuser/MapDemo.java:8: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/mapuser/MapDemo.java:15: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/mapuser/OccurenceCount.java:11: trailing whitespace.
+[32m+[m		[32mfor(int i=0;i<s.length();i++)[m[41m [m
+Java/CollectionFrameworkString/src/mapuser/OccurenceCount.java:14: trailing whitespace.
+[32m+[m			[32mif(map.containsKey(ch))[m[41m [m
+Java/CollectionFrameworkString/src/mapuser/OccurenceCount.java:17: trailing whitespace.
+[32m+[m[41m				[m
+Java/CollectionFrameworkString/src/mapuser/OccurenceCount.java:22: trailing whitespace.
+[32m+[m[41m			[m
+Java/CollectionFrameworkString/src/office/Employee.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/office/Employee.java:19: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/office/EmployeeDemo.java:11: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/office/SalaryComparator.java:15: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/setdemo/StudentSet.java:26: trailing whitespace.
+[32m+[m[41m        	[m
+Java/CollectionFrameworkString/src/setdemo/StudentSet.java:31: trailing whitespace.
+[32m+[m[41m       [m
+Java/CollectionFrameworkString/src/setframework/Student.java:10: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/setframework/Student.java:13: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/setframework/Student.java:51: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/setframework/Student.java:52: trailing whitespace.
+[32m+[m[41m	[m
+Java/CollectionFrameworkString/src/stringuser/StringDemo.java:11: trailing whitespace.
+[32m+[m[41m		[m
+Java/CollectionFrameworkString/src/stringuser/StringDemo.java:20: trailing whitespace.
+[32m+[m[41m		[m
+Java/ExceptionHandling/ArithmeticOperation.java:5: trailing whitespace.
+[32m+[m		[32mtry[m[41m [m
+Java/ExceptionHandling/ArithmeticOperation.java:7: trailing whitespace.
+[32m+[m[41m			[m
+Java/ExceptionHandling/ArithmeticOperation.java:8: trailing whitespace.
+[32m+[m			[32mif(args.length<3)[m[41m [m
+Java/ExceptionHandling/ArithmeticOperation.java:20: trailing whitespace.
+[32m+[m[41m			[m
+Java/ExceptionHandling/ArithmeticOperation.java:24: trailing whitespace.
+[32m+[m[41m			[m
+Java/ExceptionHandling/ArithmeticOperation.java:28: trailing whitespace.
+[32m+[m[41m			[m
+Java/ExceptionHandling/ArithmeticOperation.java:37: trailing whitespace.
+[32m+[m[41m				[m
+Java/ExceptionHandling/ArithmeticOperation.java:41: trailing whitespace.
+[32m+[m[41m			[m
+Java/ExceptionHandling/ArithmeticOperation.java:45: trailing whitespace.
+[32m+[m[41m			[m
+Java/ExceptionHandling/ArithmeticOperation.java:49: trailing whitespace.
+[32m+[m[41m		[m
+Java/ExceptionHandling/ArithmeticOperation.java:51: trailing whitespace.
+[32m+[m[41m		[m
+Java/ExceptionHandling/ArrayExceptionDemo.java:6: trailing whitespace.
+[32m+[m[41m			[m
+Java/ExceptionHandling/ArrayExceptionDemo.java:7: trailing whitespace.
+[32m+[m[41m		[m
+Java/ExceptionHandling/ArrayExceptionDemo.java:12: trailing whitespace.
+[32m+[m[41m			[m
+Java/ExceptionHandling/ArrayExceptionDemo.java:18: trailing whitespace.
+[32m+[m[41m			[m
+Java/ExceptionHandling/color/ColorDemo.java:50: new blank line at EOF.
+Java/FileIO/src/copyContent/CopyContent.java:16: trailing whitespace.
+[32m+[m[41m		[m
+Java/FileIO/src/copyContent/CopyContent.java:19: trailing whitespace.
+[32m+[m[41m			[m
+Java/FileIO/src/copyContent/CopyContent.java:22: trailing whitespace.
+[32m+[m[41m            [m
+Java/FileIO/src/copyContent/CopyContent.java:25: trailing whitespace.
+[32m+[m[41m            [m
+Java/FileIO/src/copyContent/CopyContent.java:29: trailing whitespace.
+[32m+[m[41m          [m
+Java/FileIO/src/copyContent/CopyContent.java:31: trailing whitespace.
+[32m+[m[41m            [m
+Java/FileIO/src/copyContent/CopyContent.java:33: trailing whitespace.
+[32m+[m[41m	         [m
+Java/FileIO/src/copyContent/CopyContent.java:35: trailing whitespace.
+[32m+[m[41m	           [m
+Java/FileIO/src/copyContent/CopyContent.java:37: trailing whitespace.
+[32m+[m[41m           [m
+Java/FileIO/src/copyContent/CopyContent.java:39: trailing whitespace.
+[32m+[m[41m            [m
+Java/FileIO/src/copyContent/CopyContent.java:40: trailing whitespace.
+[32m+[m[41m            [m
+Java/FileIO/src/copyContent/CopyContent.java:41: trailing whitespace.
+[32m+[m[41m            [m
+Java/FileIO/src/copyContent/CopyContent.java:42: trailing whitespace.
+[32m+[m[41m			[m
+Java/FileIO/src/copyContent/CopyContent.java:48: trailing whitespace.
+[32m+[m[41m		[m
+Java/FileIO/src/copyContent/CopyContent.java:67: trailing whitespace.
+[32m+[m[41m		[m
+Java/FileIO/src/copyContent/data.txt:1: trailing whitespace.
+[32m+[m[32mheeeeloo[m[41m [m
+Java/FileIO/src/count/CountCharDigit.java:26: trailing whitespace.
+[32m+[m[41m                [m
+Java/FileIO/src/count/CountCharDigit.java:37: trailing whitespace.
+[32m+[m[41m                    [m
+Java/FileIO/src/longline/Maxline.java:9: trailing whitespace.
+[32m+[m[41m		[m
+Java/FileIO/src/longline/Maxline.java:20: trailing whitespace.
+[32m+[m					[32m}[m[41m					[m
+Java/Interfacecls/src/apps/DateDemo.java:10: trailing whitespace.
+[32m+[m[41m		[m
+Java/Interfacecls/src/apps/EmpDemo.java:10: trailing whitespace.
+[32m+[m	[32mpublic static void main(String[] args)[m[41m [m
+Java/Interfacecls/src/apps/EmpDemo.java:17: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/apps/EmpDemo.java:18: trailing whitespace.
+[32m+[m		[32mfor(int i=0; i<allemps.length; i++ )[m[41m [m
+Java/Interfacecls/src/apps/EmpDemo.java:23: trailing whitespace.
+[32m+[m[41m		[m
+Java/Interfacecls/src/apps/EmpDemo.java:33: trailing whitespace.
+[32m+[m			[32mSystem.out.println("Salary : "+e.calculateSalary() );[m[41m   [m
+Java/Interfacecls/src/apps/EmpDemo.java:37: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/apps/Test.java:11: trailing whitespace.
+[32m+[m		[32mEmp [] allemps;[m[41m																																										[m
+Java/Interfacecls/src/apps/Test.java:16: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/apps/Test.java:18: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/apps/Test.java:22: trailing whitespace.
+[32m+[m[41m		[m
+Java/Interfacecls/src/apps/Test.java:23: trailing whitespace.
+[32m+[m		[32mfor(Emp e:arr )[m[41m [m
+Java/Interfacecls/src/apps/Test.java:32: trailing whitespace.
+[32m+[m[41m		[m
+Java/Interfacecls/src/apps/Test.java:34: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/office/utility/Date.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/office/utility/Date.java:8: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/office/utility/Date.java:37: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/office/utility/Date.java:46: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/office/utility/Person.java:6: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/office/utility/Person.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/office/utility/Person.java:34: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/office/utility/Person.java:45: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/Administrator.java:6: trailing whitespace.
+[32m+[m[32mpublic class Administrator extends Emp[m[41m [m
+Java/Interfacecls/src/staff/Administrator.java:10: trailing whitespace.
+[32m+[m	[32mpublic Administrator()[m[41m [m
+Java/Interfacecls/src/staff/Administrator.java:15: trailing whitespace.
+[32m+[m	[32mpublic Administrator(String name, Date birth_date, int emp_id, double sal,double allowance)[m[41m [m
+Java/Interfacecls/src/staff/Administrator.java:20: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/Administrator.java:35: trailing whitespace.
+[32m+[m[41m		[m
+Java/Interfacecls/src/staff/Administrator.java:42: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/Administrator.java:43: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/Emp.java:7: trailing whitespace.
+[32m+[m[32mpublic class Emp extends Person[m[41m [m
+Java/Interfacecls/src/staff/Emp.java:12: trailing whitespace.
+[32m+[m	[32mpublic Emp()[m[41m [m
+Java/Interfacecls/src/staff/Emp.java:18: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/Emp.java:20: trailing whitespace.
+[32m+[m	[32mpublic Emp(String name, Date birth_date, int emp_id, double sal)[m[41m [m
+Java/Interfacecls/src/staff/Emp.java:26: trailing whitespace.
+[32m+[m	[32mpublic Emp(String name, int i, int j, int k, int l,int emp_id,double sal)[m[41m [m
+Java/Interfacecls/src/staff/Emp.java:45: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/Emp.java:46: trailing whitespace.
+[32m+[m	[32mpublic double calculateSalary()[m[41m [m
+Java/Interfacecls/src/staff/Emp.java:51: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/Programmer.java:15: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/Programmer.java:16: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/Programmer.java:19: trailing whitespace.
+[32m+[m[41m		[m
+Java/Interfacecls/src/staff/Programmer.java:57: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/Programmer.java:67: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/SalesManager.java:14: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/SalesManager.java:40: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/SalesManager.java:50: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/SalesManager.java:51: trailing whitespace.
+[32m+[m[41m	[m
+Java/Interfacecls/src/staff/SalesManager.java:63: trailing whitespace.
+[32m+[m[41m	[m
+Java/Miscallenous/src/order/Order.java:8: trailing whitespace.
+[32m+[m[41m	[m
+Java/Miscallenous/src/order/Order.java:9: trailing whitespace.
+[32m+[m[41m	[m
+Java/Miscallenous/src/order/Order.java:10: trailing whitespace.
+[32m+[m[41m	[m
+Java/Miscallenous/src/order/Order.java:19: trailing whitespace.
+[32m+[m[41m	[m
+Java/Miscallenous/src/order/Order.java:22: trailing whitespace.
+[32m+[m[41m		[m
+Java/Miscallenous/src/order/Order.java:33: trailing whitespace.
+[32m+[m[41m	[m
+Java/Miscallenous/src/order/Order.java:34: trailing whitespace.
+[32m+[m[41m	[m
+Java/Miscallenous/src/order/OrderDemo.java:18: trailing whitespace.
+[32m+[m[41m      [m
+Java/Miscallenous/src/order/OrderStatus.java:5: trailing whitespace.
+[32m+[m[41m	[m
+Java/Miscallenous/src/order/OrderStatus.java:11: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/divisor.txt:1: trailing whitespace.
+[32m+[m[32mDiviosr of: 32 are: 1 2 4 8 16 32[m[41m [m
+Java/MultiThreading/divisor.txt:2: trailing whitespace.
+[32m+[m[32mDiviosr of: 30 are: 1 2 3 5 6 10 15 30[m[41m [m
+Java/MultiThreading/divisor.txt:3: trailing whitespace.
+[32m+[m[32mDiviosr of: 50 are: 1 2 5 10 25 50[m[41m [m
+Java/MultiThreading/divisor.txt:4: trailing whitespace.
+[32m+[m[32mDiviosr of: 50 are: 1 2 5 10 25 50[m[41m [m
+Java/MultiThreading/divisor.txt:5: trailing whitespace.
+[32m+[m[32mDiviosr of: 32 are: 1 2 4 8 16 32[m[41m [m
+Java/MultiThreading/divisor.txt:6: trailing whitespace.
+[32m+[m[32mDiviosr of: 30 are: 1 2 3 5 6 10 15 30[m[41m [m
+Java/MultiThreading/divisor.txt:7: trailing whitespace.
+[32m+[m[32mDiviosr of: 50 are: 1 2 5 10 25 50[m[41m [m
+Java/MultiThreading/divisor.txt:8: trailing whitespace.
+[32m+[m[32mDiviosr of: 30 are: 1 2 3 5 6 10 15 30[m[41m [m
+Java/MultiThreading/divisor.txt:9: trailing whitespace.
+[32m+[m[32mDiviosr of: 32 are: 1 2 4 8 16 32[m[41m [m
+Java/MultiThreading/src/CustomThread/CustomThreadRunnable.java:4: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/CustomThread/CustomThreadRunnable.java:15: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/CustomThread/CustomThreadRunnable.java:17: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/DefaultPriority.java:5: trailing whitespace.
+[32m+[m		[32m//garbage collector[m[41m [m
+Java/MultiThreading/src/DefaultPriority.java:9: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/DefaultPriority.java:10: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/Prime/RunnableasLambda.java:9: trailing whitespace.
+[32m+[m				[32mfor(int j=2;j<=i/2;j++) {[m[41m [m
+Java/MultiThreading/src/Prime/RunnableasLambda.java:21: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/apps/CustomThreadRunnable.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/apps/CustomThreadRunnable.java:10: trailing whitespace.
+[32m+[m[41m			[m
+Java/MultiThreading/src/apps/CustomThreadRunnable.java:12: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/apps/CustomThreadRunnable.java:13: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/apps/CustomThreadRunnable.java:34: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/apps/CustomThreadRunnable.java:36: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/apps/CustomThreadRunnable.java:43: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/apps/CustomThreadRunnable.java:44: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/apps/CustomThreadRunnable.java:47: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/apps/CustomThreadRunnable.java:48: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/apps/CustomThreadRunnable.java:50: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/apps/CustomThreadRunnable.java:51: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/apps/RunnableasLamda.java:13: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/divisor/DivisiorThread.java:9: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/divisor/DivisiorThread.java:10: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/divisor/DivisiorThread.java:16: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/filedisplay/FileDisplay.java:16: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/filedisplay/FileDisplay.java:24: trailing whitespace.
+[32m+[m		[32mtry {[m[41m			[m
+Java/MultiThreading/src/filedisplay/FileDisplay.java:28: trailing whitespace.
+[32m+[m				[32mwhile( (i = fr.read()) != -1)[m[41m [m
+Java/MultiThreading/src/filedisplay/FileDisplay.java:48: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/filedisplay/FileDisplay.java:49: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/filedisplay/FileDisplay.java:52: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/filedisplay/FileDisplay.java:53: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/filedisplay/FileDisplay.java:52: new blank line at EOF.
+Java/MultiThreading/src/filedisplay/FileDisplayDemo.java:9: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/filedisplay/FileDisplayDemo.java:11: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/filedisplay/FileDisplayDemo.java:16: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/filedisplay/FileDisplayDemo.java:26: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/filedisplay/FileDisplayDemo.java:28: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/filesd/CopyContent.java:10: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/filesd/CopyContent.java:12: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/filesd/CopyContent.java:15: trailing whitespace.
+[32m+[m[41m            [m
+Java/MultiThreading/src/filesd/CopyContent.java:18: trailing whitespace.
+[32m+[m[41m        [m
+Java/MultiThreading/src/filesd/CopyContent.java:22: trailing whitespace.
+[32m+[m[41m        [m
+Java/MultiThreading/src/filesd/FileCopyThread.java:23: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/filesd/FileCopyThread.java:24: trailing whitespace.
+[32m+[m[41m		    [m
+Java/MultiThreading/src/filesd/FileCopyThread.java:26: trailing whitespace.
+[32m+[m[41m		    [m
+Java/MultiThreading/src/filesd/FileCopyThread.java:28: trailing whitespace.
+[32m+[m[41m		     [m
+Java/MultiThreading/src/filesd/FileCopyThread.java:30: trailing whitespace.
+[32m+[m[41m		       [m
+Java/MultiThreading/src/filesd/FileCopyThread.java:32: space before tab in indent.
+[32m+[m		[41m    [m	[32mfis.close();[m
+Java/MultiThreading/src/filesd/FileCopyThread.java:33: space before tab in indent.
+[32m+[m		[41m    [m	[32mfos.close();[m
+Java/MultiThreading/src/filesd/FileCopyThread.java:34: trailing whitespace.
+[32m+[m[41m		   [m
+Java/MultiThreading/src/filesd/FileCopyThread.java:36: trailing whitespace.
+[32m+[m[41m			[m
+Java/MultiThreading/src/filesd/FileCopyThread.java:42: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/filesd/FileCopyThread.java:43: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/filesd/FileCopyThread.java:44: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/interthreadcomm/Consumer.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/interthreadcomm/Consumer.java:8: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/interthreadcomm/Consumer.java:21: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/interthreadcomm/Consumer.java:33: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/interthreadcomm/InterThreadDemo.java:7: trailing whitespace.
+[32m+[m[41m				[m
+Java/MultiThreading/src/interthreadcomm/InterThreadDemo.java:12: trailing whitespace.
+[32m+[m[41m				[m
+Java/MultiThreading/src/interthreadcomm/InterThreadDemo.java:16: trailing whitespace.
+[32m+[m[41m				[m
+Java/MultiThreading/src/interthreadcomm/InterThreadDemo.java:22: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/interthreadcomm/InterThreadDemo.java:25: trailing whitespace.
+[32m+[m[41m				[m
+Java/MultiThreading/src/interthreadcomm/InterThreadDemo.java:33: trailing whitespace.
+[32m+[m[41m				[m
+Java/MultiThreading/src/interthreadcomm/InterThreadDemo.java:36: trailing whitespace.
+[32m+[m[41m				[m
+Java/MultiThreading/src/interthreadcomm/InterThreadDemo.java:37: trailing whitespace.
+[32m+[m[41m				[m
+Java/MultiThreading/src/interthreadcomm/InterThreadDemo.java:40: trailing whitespace.
+[32m+[m[41m				[m
+Java/MultiThreading/src/interthreadcomm/Producer.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/interthreadcomm/Producer.java:20: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/interthreadcomm/Producer.java:32: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/interthreadcomm/Producer.java:35: new blank line at EOF.
+Java/MultiThreading/src/interthreadcomm/Stock.java:4: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/interthreadcomm/Stock.java:8: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/interthreadcomm/Stock.java:14: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/interthreadcomm/Stock.java:22: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/interthreadcomm/Stock.java:42: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/interthreadcomm/Stock.java:56: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/interthreadcomm/Stock.java:61: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/multiplethread/CountDownJob.java:10: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/multiplethread/CountDownJobDemo.java:9: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/multiplethread/CountDownJobDemo.java:15: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/multiplethread/CountDownJobDemo.java:24: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/primeinrange/Prime.java:17: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/primeinrange/Prime.java:33: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/primeinrange/Prime.java:39: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/printer/PrinterDemo.java:10: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/printer/PrinterDemo.java:14: trailing whitespace.
+[32m+[m[41m		[m
+Java/MultiThreading/src/printer/PrinterThread.java:6: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/printer/PrinterThread.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/printer/PrinterThread.java:17: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/printer/PrinterThread.java:18: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/printer/PrinterThread.java:19: trailing whitespace.
+[32m+[m[41m	[m
+Java/MultiThreading/src/printer/PrinterThread.java:20: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/office/DateDemo.java:10: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/GetTargetPoly/src/office/Test.java:12: trailing whitespace.
+[32m+[m		[32mEmp [] allemps;[m[41m																																										[m
+Java/Polymorphism/GetTargetPoly/src/office/Test.java:17: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/office/Test.java:19: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/office/Test.java:23: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/GetTargetPoly/src/office/Test.java:24: trailing whitespace.
+[32m+[m		[32mfor(Emp e:arr )[m[41m [m
+Java/Polymorphism/GetTargetPoly/src/office/Test.java:33: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/GetTargetPoly/src/office/Test.java:35: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/Administrator.java:6: trailing whitespace.
+[32m+[m[32mpublic class Administrator extends Emp[m[41m [m
+Java/Polymorphism/GetTargetPoly/src/staff/Administrator.java:10: trailing whitespace.
+[32m+[m	[32mpublic Administrator()[m[41m [m
+Java/Polymorphism/GetTargetPoly/src/staff/Administrator.java:15: trailing whitespace.
+[32m+[m	[32mpublic Administrator(String name, Date birth_date, int emp_id, double sal,double allowance)[m[41m [m
+Java/Polymorphism/GetTargetPoly/src/staff/Administrator.java:20: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/Administrator.java:35: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/GetTargetPoly/src/staff/Administrator.java:42: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/Administrator.java:43: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/Programmer.java:10: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/Programmer.java:13: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/GetTargetPoly/src/staff/Programmer.java:16: trailing whitespace.
+[32m+[m	[32mpublic Programmer(String name, Date birth_date, int emp_id, double sal,String projectTitle,int extraHour,double chargesPerHour)[m[41m [m
+Java/Polymorphism/GetTargetPoly/src/staff/Programmer.java:23: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/Programmer.java:45: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/Programmer.java:47: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/Programmer.java:48: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/Programmer.java:49: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/Programmer.java:50: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/Programmer.java:51: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/Programmer.java:52: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/SalesManager.java:6: trailing whitespace.
+[32m+[m[32mpublic class SalesManager extends Emp[m[41m [m
+Java/Polymorphism/GetTargetPoly/src/staff/SalesManager.java:10: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/SalesManager.java:11: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/SalesManager.java:22: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/SalesManager.java:45: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/staff/SalesManager.java:46: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/utility/Date.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/utility/Date.java:8: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/utility/Date.java:37: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/utility/Date.java:46: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/utility/Emp.java:6: trailing whitespace.
+[32m+[m[32mpublic class Emp extends Person[m[41m [m
+Java/Polymorphism/GetTargetPoly/src/utility/Emp.java:11: trailing whitespace.
+[32m+[m	[32mpublic Emp()[m[41m [m
+Java/Polymorphism/GetTargetPoly/src/utility/Emp.java:17: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/utility/Emp.java:19: trailing whitespace.
+[32m+[m	[32mpublic Emp(String name, Date birth_date, int emp_id, double sal)[m[41m [m
+Java/Polymorphism/GetTargetPoly/src/utility/Emp.java:25: trailing whitespace.
+[32m+[m	[32mpublic Emp(String name, int i, int j, int k, int l,int emp_id,double sal)[m[41m [m
+Java/Polymorphism/GetTargetPoly/src/utility/Emp.java:44: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/utility/Emp.java:45: trailing whitespace.
+[32m+[m	[32mpublic double calculateSalary()[m[41m [m
+Java/Polymorphism/GetTargetPoly/src/utility/Emp.java:50: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/utility/Person.java:6: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/utility/Person.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/utility/Person.java:34: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/GetTargetPoly/src/utility/Person.java:45: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/office/DateDemo.java:10: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/Polymorphism1/src/office/EmpDemo.java:11: trailing whitespace.
+[32m+[m	[32mpublic static void main(String[] args)[m[41m [m
+Java/Polymorphism/Polymorphism1/src/office/EmpDemo.java:19: trailing whitespace.
+[32m+[m		[32mfor(int i=0; i<allemps.length; i++ )[m[41m [m
+Java/Polymorphism/Polymorphism1/src/office/EmpDemo.java:24: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/Polymorphism1/src/office/EmpDemo.java:29: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/Polymorphism1/src/office/EmpDemo.java:30: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/Administrator.java:6: trailing whitespace.
+[32m+[m[32mpublic class Administrator extends Emp[m[41m [m
+Java/Polymorphism/Polymorphism1/src/staff/Administrator.java:10: trailing whitespace.
+[32m+[m	[32mpublic Administrator()[m[41m [m
+Java/Polymorphism/Polymorphism1/src/staff/Administrator.java:15: trailing whitespace.
+[32m+[m	[32mpublic Administrator(String name, Date birth_date, int emp_id, double sal,double allowance)[m[41m [m
+Java/Polymorphism/Polymorphism1/src/staff/Administrator.java:20: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/Administrator.java:34: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/Administrator.java:35: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/Programmer.java:10: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/Programmer.java:13: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/Polymorphism1/src/staff/Programmer.java:16: trailing whitespace.
+[32m+[m	[32mpublic Programmer(String name, Date birth_date, int emp_id, double sal,String projectTitle,int extraHour,double chargesPerHour)[m[41m [m
+Java/Polymorphism/Polymorphism1/src/staff/Programmer.java:23: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/Programmer.java:38: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/Programmer.java:39: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/Programmer.java:40: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/Programmer.java:41: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/Programmer.java:42: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/Programmer.java:43: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/SalesManager.java:6: trailing whitespace.
+[32m+[m[32mpublic class SalesManager extends Emp[m[41m [m
+Java/Polymorphism/Polymorphism1/src/staff/SalesManager.java:10: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/SalesManager.java:11: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/SalesManager.java:22: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/staff/SalesManager.java:36: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/utility/Date.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/utility/Date.java:8: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/utility/Date.java:37: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/utility/Date.java:46: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/utility/Emp.java:6: trailing whitespace.
+[32m+[m[32mpublic class Emp extends Person[m[41m [m
+Java/Polymorphism/Polymorphism1/src/utility/Emp.java:11: trailing whitespace.
+[32m+[m	[32mpublic Emp()[m[41m [m
+Java/Polymorphism/Polymorphism1/src/utility/Emp.java:17: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/utility/Emp.java:19: trailing whitespace.
+[32m+[m	[32mpublic Emp(String name, Date birth_date, int emp_id, double sal)[m[41m [m
+Java/Polymorphism/Polymorphism1/src/utility/Emp.java:25: trailing whitespace.
+[32m+[m	[32mpublic Emp(String name, int i, int j, int k, int l,int emp_id,double sal)[m[41m [m
+Java/Polymorphism/Polymorphism1/src/utility/Emp.java:44: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/utility/Person.java:6: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/utility/Person.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/utility/Person.java:34: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/Polymorphism1/src/utility/Person.java:45: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/office/DateDemo.java:10: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/PolymorphismII/src/office/EmpDemo.java:11: trailing whitespace.
+[32m+[m	[32mpublic static void main(String[] args)[m[41m [m
+Java/Polymorphism/PolymorphismII/src/office/EmpDemo.java:18: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/office/EmpDemo.java:19: trailing whitespace.
+[32m+[m		[32mfor(int i=0; i<allemps.length; i++ )[m[41m [m
+Java/Polymorphism/PolymorphismII/src/office/EmpDemo.java:24: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/PolymorphismII/src/office/EmpDemo.java:34: trailing whitespace.
+[32m+[m			[32mSystem.out.println("Salary : "+e.calculateSalary() );[m[41m   [m
+Java/Polymorphism/PolymorphismII/src/office/EmpDemo.java:37: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/PolymorphismII/src/office/EmpDemo.java:38: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/Administrator.java:6: trailing whitespace.
+[32m+[m[32mpublic class Administrator extends Emp[m[41m [m
+Java/Polymorphism/PolymorphismII/src/staff/Administrator.java:10: trailing whitespace.
+[32m+[m	[32mpublic Administrator()[m[41m [m
+Java/Polymorphism/PolymorphismII/src/staff/Administrator.java:15: trailing whitespace.
+[32m+[m	[32mpublic Administrator(String name, Date birth_date, int emp_id, double sal,double allowance)[m[41m [m
+Java/Polymorphism/PolymorphismII/src/staff/Administrator.java:20: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/Administrator.java:35: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/PolymorphismII/src/staff/Administrator.java:38: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/Programmer.java:10: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/Programmer.java:13: trailing whitespace.
+[32m+[m[41m		[m
+Java/Polymorphism/PolymorphismII/src/staff/Programmer.java:16: trailing whitespace.
+[32m+[m	[32mpublic Programmer(String name, Date birth_date, int emp_id, double sal,String projectTitle,int extraHour,double chargesPerHour)[m[41m [m
+Java/Polymorphism/PolymorphismII/src/staff/Programmer.java:23: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/Programmer.java:42: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/Programmer.java:43: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/Programmer.java:44: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/Programmer.java:45: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/Programmer.java:46: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/Programmer.java:47: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/SalesManager.java:6: trailing whitespace.
+[32m+[m[32mpublic class SalesManager extends Emp[m[41m [m
+Java/Polymorphism/PolymorphismII/src/staff/SalesManager.java:10: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/SalesManager.java:11: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/SalesManager.java:22: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/staff/SalesManager.java:40: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/utility/Date.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/utility/Date.java:8: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/utility/Date.java:37: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/utility/Date.java:46: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/utility/Emp.java:6: trailing whitespace.
+[32m+[m[32mpublic class Emp extends Person[m[41m [m
+Java/Polymorphism/PolymorphismII/src/utility/Emp.java:11: trailing whitespace.
+[32m+[m	[32mpublic Emp()[m[41m [m
+Java/Polymorphism/PolymorphismII/src/utility/Emp.java:17: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/utility/Emp.java:19: trailing whitespace.
+[32m+[m	[32mpublic Emp(String name, Date birth_date, int emp_id, double sal)[m[41m [m
+Java/Polymorphism/PolymorphismII/src/utility/Emp.java:25: trailing whitespace.
+[32m+[m	[32mpublic Emp(String name, int i, int j, int k, int l,int emp_id,double sal)[m[41m [m
+Java/Polymorphism/PolymorphismII/src/utility/Emp.java:44: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/utility/Emp.java:45: trailing whitespace.
+[32m+[m	[32mpublic double calculateSalary()[m[41m [m
+Java/Polymorphism/PolymorphismII/src/utility/Emp.java:50: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/utility/Person.java:6: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/utility/Person.java:7: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/utility/Person.java:34: trailing whitespace.
+[32m+[m[41m	[m
+Java/Polymorphism/PolymorphismII/src/utility/Person.java:45: trailing whitespace.
+[32m+[m[41m	[m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:14: trailing whitespace.
+[32m+[m		[32mString cname = br.readLine();[m[41m [m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:15: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:17: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:19: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:21: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:23: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:25: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:26: trailing whitespace.
+[32m+[m		[32mSystem.out.println(str);[m[41m    [m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:27: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:32: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:34: trailing whitespace.
+[32m+[m		[32mSystem.out.println(m.invoke(obj, "come"));  */[m[41m        [m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:35: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/DynamicInstanceCreation.java:37: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/GettingClassInfo.java:17: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/GettingClassInfo.java:25: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/GettingClassInfo.java:26: trailing whitespace.
+[32m+[m		[32m//use the methods of class Class[m[41m [m
+Java/ReflectionAPI/src/gettinginfo/GettingClassInfo.java:40: trailing whitespace.
+[32m+[m		[32m//Method [] allmethods = c1.getMethods();[m[41m  [m
+Java/ReflectionAPI/src/gettinginfo/GettingClassInfo.java:41: trailing whitespace.
+[32m+[m		[32mMethod [] allmethods = c1.getDeclaredMethods();[m[41m  [m
+Java/ReflectionAPI/src/gettinginfo/GettingClassInfo.java:44: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/GettingClassInfo.java:51: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/GettingClassInfo.java:54: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/GettingClassInfo.java:57: trailing whitespace.
+[32m+[m[41m			[m
+Java/ReflectionAPI/src/gettinginfo/GettingClassInfo.java:58: trailing whitespace.
+[32m+[m[41m		[m
+Java/ReflectionAPI/src/gettinginfo/GettingClassInfo.java:66: trailing whitespace.
+[32m+[m[41m	[m
+Java/SetFramework/src/stringuser/StringDemo.java:11: trailing whitespace.
+[32m+[m[41m		[m
+Java/SetFramework/src/stringuser/StringDemo.java:20: trailing whitespace.
+[32m+[m[41m		[m
+Java/Streamapi/src/office/Employee.java:4: trailing whitespace.
+[32m+[m[41m	[m
+Java/Streamapi/src/office/Employee.java:11: trailing whitespace.
+[32m+[m[41m	[m
+Java/Streamapi/src/office/Employee.java:17: trailing whitespace.
+[32m+[m[41m	[m
+Java/Streamapi/src/office/Employee.java:36: trailing whitespace.
+[32m+[m[41m	[m
+Java/Streamapi/src/office/Employee.java:37: trailing whitespace.
+[32m+[m[41m	[m
+Java/Streamapi/src/office/Employee.java:38: trailing whitespace.
+[32m+[m[41m	[m
+Java/Streamapi/src/office/EmployeeDemo.java:20: trailing whitespace.
+[32m+[m[41m		[m
+Java/Streamapi/src/office/EmployeeDemo.java:22: trailing whitespace.
+[32m+[m[41m		[m
+Java/Streamapi/src/streamapi/DescendingOrderString.java:14: trailing whitespace.
+[32m+[m[41m		[m
+Java/Streamapi/src/streamapi/DescendingOrderString.java:16: trailing whitespace.
+[32m+[m[41m		[m
+Java/Streamapi/src/streamapi/EvenInt.java:9: trailing whitespace.
+[32m+[m[41m		[m
+Java/Streamapi/src/streamapi/EvenInt.java:15: trailing whitespace.
+[32m+[m[41m		[m
+Java/Streamapi/src/streamapi/LongestString.java:14: trailing whitespace.
+[32m+[m[41m		[m
+Java/Streamapi/src/streamapi/LongestString.java:16: trailing whitespace.
+[32m+[m[41m		[m
+Java/Streamapi/src/streamapi/StartwithA.java:14: trailing whitespace.
+[32m+[m[41m		[m
+Java/Streamapi/src/streamapi/Stringupper.java:10: trailing whitespace.
+[32m+[m[41m		[m
+Java/Streamapi/src/streamapi/Stringupper.java:13: trailing whitespace.
+[32m+[m[41m		[m
