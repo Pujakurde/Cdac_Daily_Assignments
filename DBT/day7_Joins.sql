@@ -315,6 +315,73 @@ where e1.job='salesman';
 |  7499 | ALLEN    | SALESMAN     | 7698 | MANAGER |
 +-------+----------+--------------+------+---------+
 
+-- Assignment no 13
+SELECT
+    e.empno,
+    e.ename,
+    e.job,
+    e.hiredate,
+    e.sal,
+    e.deptno,
+    d.dname,
+    d.loc
+FROM emp e
+JOIN dept d
+    ON e.deptno = d.deptno
+WHERE d.loc = 'DALLAS'
+  AND YEAR(e.hiredate) = 1980;
+  
+  
++-------+-------+-------+------------+--------+--------+----------+--------+
+| empno | ename | job   | hiredate   | sal    | deptno | dname    | loc    |
++-------+-------+-------+------------+--------+--------+----------+--------+
+|  7369 | SMITH | CLERK | 1980-12-17 | 968.00 |     20 | RESEARCH | DALLAS |
++-------+-------+-------+------------+--------+--------+----------+--------+
 
+-- Assignment no 14
+SELECT
+    e.ename,
+    e.sal,
+    e.deptno,
+    d.dname
+FROM emp e
+JOIN dept d
+    ON e.deptno = d.deptno
+WHERE e.sal > (
+    SELECT AVG(sal)
+    FROM emp
+);
 
++-------+---------+--------+------------+
+| ename | sal     | deptno | dname      |
++-------+---------+--------+------------+
+| JONES | 3183.25 |     20 | RESEARCH   |
+| BLAKE | 3049.50 |     30 | SALES      |
+| CLARK | 2621.50 |     10 | ACCOUNTING |
+| SCOTT | 3000.00 |     20 | RESEARCH   |
+| KING  | 5000.00 |     10 | ACCOUNTING |
+| FORD  | 3000.00 |     20 | RESEARCH   |
++-------+---------+--------+------------+
 
+-- Assignment no 15
+SELECT
+    e.ename,
+    e.sal,
+    e.deptno,
+    d.dname
+FROM emp e
+JOIN dept d
+    ON e.deptno = d.deptno
+JOIN salgrade s
+    ON e.sal BETWEEN s.losal AND s.hisal
+WHERE s.grade = 3
+  AND e.job = 'SALESMAN';
+
++--------+---------+--------+-------+
+| ename  | sal     | deptno | dname |
++--------+---------+--------+-------+
+| TURNER | 1500.00 |     30 | SALES |
+| ALLEN  | 1600.00 |     30 | SALES |
++--------+---------+--------+-------+
+
+-- Assignment no 16

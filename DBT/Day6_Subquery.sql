@@ -259,7 +259,45 @@ WHERE DEPTNO NOT IN (
 |     40 | OPERATIONS |
 +--------+------------+
 
+-- ASSIGNMENT NO 8
+CREATE TABLE faculty (
+           fid INT PRIMARY KEY,
+           fname VARCHAR(20),
+           sp_skill1 VARCHAR(20),
+           sp_skill2 VARCHAR(20));
+			
+INSERT INTO faculty VALUES
+		(10,'Amol','Database','Java'),
+       (11,'Asha','Java','MySQL'),
+       (12,'Kiran','CPP','database'),
+      (13,'Seeta','MySQL','database');
+	  
+CREATE TABLE room(rid INT PRIMARY KEY,
+rname VARCHAR(15) NOT NULL,
+rloc VARCHAR(20));
 
+INSERT INTO room VALUES
+		(100,'Jasmin','1st floor'),
+       (101,'Rose','2nd floor'),
+       (105,'Lotus','1st floor'),
+      (103,'Mogra','1st floor');
+
+
+CREATE TABLE courses (
+           cid INT PRIMARY KEY,
+           cname VARCHAR(20) NOT NULL,
+           rid INT,
+           fid INT,
+           FOREIGN KEY(rid) REFERENCES room(rid) ON DELETE SET NULL,
+           FOREIGN KEY(fid) REFERENCES faculty(fid) ON DELETE SET NULL
+       );
+
+INSERT INTO courses VALUES
+       (121, 'DBDA', 100, 10),
+       (131, 'DAC', 101, NULL),
+       (141, 'DTISS', NULL, NULL),
+       (151, 'DOIT', 105, 12);  
+	  
 -- ASSIGNMENT NO 9
 SELECT * 
 FROM EMP
