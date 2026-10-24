@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>Demo</title>
+</head>
+<body> 
+    <script>
+    //Literal Syntax
+    var person1={
+        No:1,Name:"Test",IsWorking:true ,
+        Hobbies:["Reading","Writing"],
+        skills:undefined,
+        print: function () {
+            console.log(
+                `No is ${this.No}, 
+                Name is ${this.Name}, 
+                IsWorking : ${this.IsWorking}, 
+                Hobbies : ${this.Hobbies}, 
+                Skills : ${this.skills}`
+            );
+        }
+
+    }
+
+    // person1.print();
+    // person1.Name="Virat";
+    // person1.No=10;
+    // person1.print();
+
+    // peron2=person1;
+    // peron2.Name="ABCD";
+    // person1.print();
+    // peron2.print();
+
+    // person2={...person1}; 
+    // person2.Name="ABCD";
+    // person1.print();
+    // person2.print();
+
+
+    // var employee ={};
+    // employee.__proto__=person1; //inheritance is setting prototype
+    // employee.print();
+
+
+    var employee ={
+        Name:"XYZ"
+    };
+    employee.__proto__=person1; //inheritance is setting prototype
+    employee.print();
+
+    </script>
+</body>
+</html>
