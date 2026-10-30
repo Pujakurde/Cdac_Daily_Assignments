@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>Moving Car</title>
+</head>
+<body>
+    <img src="car.png" id ="myCar"/>
+    <hr/>
+    <input type="button" value="Start" id="btn" onclick=Start()>
+    <input type="button" value="Stop" id="removeBtn" onclick=Stop()>
+    <hr/>
+    <script>
+        var leftCounter = 0;
+        var queueArray=new Array();
+
+        function Start(){
+            let queNo =setInterval(KeepMoving, 1000);
+            queueArray.push(queNo);
+            console.log("New Queue Created with No = "+queNo);
+        }
+        function Stop(){
+            for(let i=0;i<queueArray.length;i++){
+                var queNo = queueArray[i];
+                console.log("Queue being destroyed is with No = "+queNo);
+                clearInterval(queNo);
+            }
+        }
+
+        function KeepMoving(){
+             
+            var refTomyCar = document.getElementById("myCar");
+            leftCounter = leftCounter + 10;
+            refTomyCar.style.marginLeft = leftCounter + "px";
+      
+        }
+
+    </script>
+</body>
+</html>

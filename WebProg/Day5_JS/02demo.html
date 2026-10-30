@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>My Document</title>
+    <style>
+        .A{
+            background-color :rgb(169, 169, 150);
+            height : 200px;
+            width : 200px;
+        }
+        .B{
+            background-color :rgb(82, 47, 47);
+            height : 150 px;
+            width : 150px;
+        }
+    </style>
+</head>
+<body>
+    <button onclick="Change()">Click Me</button>
+    <div id ="d1" name ="majorContentDiv" class = "A">DIV 1</div>
+    <hr/>
+    <div id ="d2" name ="minorContentDiv" class = "B">DIV 2</div>
+    <hr/>
+    <div id ="d3" name ="majorContentDiv" class = "A">DIV 3</div>
+    <hr/>
+    <section id="s1" name="minorcontainerSection" class="B">Section 1</section>
+    <script>
+        function Change(){
+        
+            //var arrOfElements = document.getElementsByClassName("B");
+            //var arrOfElements = document.getElementsByTagName("DIV");
+            var arrOfElements = document.getElementsByName("majorContentDiv");
+            for (let index = 0; index < arrOfElements.length; index++) 
+            {
+                let element = arrOfElements[index];
+                element.style.backgroundColor = "beige";
+            }
+      }
+    </script>
+
+
+    
+</body>
+</html>

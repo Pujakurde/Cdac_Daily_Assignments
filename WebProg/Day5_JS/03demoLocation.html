@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>GetMyLocation</title>
+</head>
+<body>
+    <h4>My Location Tracker</h4>
+    <button onclick="GetMyLocation()" >Track my Location</button>
+    <div id="myLocation"></div>
+    
+    <script>
+        function GetMyLocation() {
+            navigator.geolocation.getCurrentPosition(F1, F2);
+        }
+
+        function F1(result) {
+            
+            //var url = `https://latlong.net/c/?lat=${result.coords.latitude}&long=${result.coords.longitude}`;
+            //var url =window.location.href ;
+            var latitude = result.coords.latitude;
+            var longitude = result.coords.longitude;
+            
+            document.getElementById("myLocation").innerHTML = "<br>Your Location:<br>Latitude: " + latitude + "<br>Longitude: " + longitude;
+            // document.write("Your Location:<br>")
+            // document.write("Latitude: " + result.coords.latitude + "<br>");
+            // document.write("Longitude: " + result.coords.longitude + "<br>");
+        }
+        function F2(error) {
+            document.getElementById("myLocation").innerHTML = "Unable to retrieve your location";
+        }
+    </script>
+</body>
+</html>

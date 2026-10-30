@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <input type="button" value="Click Me" id="btn" onclick=Disturb()>
+    <input type="button" value="Remove Event" id="removeBtn" onclick=removeEvent()>
+    <script>
+
+        console.log("Hello");
+        var queueno =setInterval(DoSomething, 1000);
+        console.log(queueno);
+        console.log("Bye");
+
+        function Disturb() {
+            alert("Disturbing");
+        }
+        
+        function DoSomething() {
+            console.log("Test");
+        }
+
+        function removeEvent() {
+            clearInterval(queueno);
+        }
+    </script>
+</body>
+</html>

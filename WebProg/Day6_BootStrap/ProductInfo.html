@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>XMLHttpRequest Demo</title>
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <script src="bootstrap.min.js"></script>
+</head>
+
+<body>
+    
+    <div class="container">
+        <h1>Product Information</h1>
+        <button onclick="getDataFromServer()" class="btn btn-primary">Load Products</button>
+        <div class="row" id="myDiv"></div>
+    </div>
+    <script>
+        function getDataFromServer(){
+            var helper= new XMLHttpRequest();
+            helper.onreadystatechange=()=>{
+                if(helper.readyState==4 && helper.status==200){
+                    debugger;
+                    var replyFromServer=JSON.parse(helper.responseText);
+                    var allProducts=replyFromServer.products;
+                    // for(i=0; i<allProducts.length; i++){
+                    //     var product=allProducts[i];
+                    //     // console.log("Title: " + product.title + " | Price: " + product.price + " | Image: " + product.thumbnail + " | Stock: " + product.stock);
+
+                    //     var productUI=
+                    //     `<div class="col-md-4 text-center">
+                    //         <h2>${product.title}</h2>
+                    //         <h4>${product.price}</h4>
+                    //         <img src="${product.thumbnail}" height="200px" width="200px">
+                    //         <hr/>
+                    //     </div>`;
+                    //     var refTomyDiv=document.getElementById("myDiv");
+                    //     refTomyDiv.innerHTML = refTomyDiv.innerHTML + productUI;
+                    // }
+                    var refTomyDiv=document.getElementById("myDiv");
+                    for(let i=0; i<5; i++){
+                        var product=allProducts[i];
+                        // console.log("Title: " + product.title + " | Price: " + product.price + " | Image: " + product.thumbnail + " | Stock: " + product.stock);
+
+                        var productUI=
+                        `<div
+                        class="col-md-4 text-center">
+                        <div class="card p-2">
+                            <h2>${product.title}</h2>
+                            <hr/>
+                            <img  class ="img-fluid" src="${product.thumbnail}" />
+                            <hr/>
+                            <h3>Stock: ${product.stock}Items</h3>
+                            <hr />
+                            <h3>Price: ${product.price}INR</h3>
+                            <hr />
+                        
+                        </div>`;
+                        
+                        refTomyDiv.innerHTML = refTomyDiv.innerHTML + productUI;
+                    }
+                }
+            };
+            helper.open("GET","https://dummyjson.com/products");
+            helper.send();
+        }
+        
+    </script>
+</body>
+</html>

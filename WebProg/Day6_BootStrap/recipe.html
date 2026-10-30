@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Meal Search</title>
+    <link rel = "stylesheet" href="bootstrap.min.css"/>
+    <script src = "bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Meal Search Website</h1>
+        <div class="row mb-4">
+            <div class="col-md-9">
+                <input type="text"
+                       id="searchText"
+                       class="form-control"
+                       placeholder="Enter meal name (e.g. Chicken, Paneer, Arrabiata)">
+            </div>
+            <div class="col-md-3">
+                <button onclick="getData()"
+                        class="btn btn-primary w-100">
+                    Search Meal
+                </button>
+            </div>
+        </div>
+        <div class="row" id="recipe"></div>
+    </div>
+    <script>
+        function getData() {
+            var mealName =
+                document.getElementById("searchText").value.trim();
+
+
+            if (mealName == "") {
+                alert("Please enter a meal name.");
+                return;
+            }
+
+
+        var helper = new XMLHttpRequest();
+
+
+        helper.onreadystatechange = () => {
+
+
+            if (helper.readyState == 4 && helper.status == 200) {
+
+
+                var reply = JSON.parse(helper.responseText);
+
+
+                var recipes = reply.meals;
+
+
+                var getReceipeContainer =
+                    document.getElementById("recipe");
+
+
+                getReceipeContainer.innerHTML = "";
+
+
+                for (var i = 0; i < recipes.length; i++) {
+
+
+                    var recipe = recipes[i];
+
+
+                    var recipeUI = `
+                    <div class="col-md-4 mb-4">
+                        <div class="card p-2">
+                            <img src="${recipe.strMealThumb}"
+                                class="img-fluid">
+
+
+                            <h5 class="card-title">${recipe.strMeal}</h5>
+                            <h5> category: ${recipe.strCategory}</h5>
+                            <h5>Area: ${recipe.strArea}</h5>
+                        </div>
+                    </div>`;
+
+
+                    getReceipeContainer.innerHTML += recipeUI;
+                }
+            }
+    };
+
+
+    helper.open(
+        "GET",
+       "https://themealdb.com/api/json/v1/1/search.php?s=" + mealName,
+        true
+    );
+
+
+    helper.send();
+}
+    </script>
+</body>
+</html>
+
